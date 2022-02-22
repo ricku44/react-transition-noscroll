@@ -60,7 +60,7 @@ class Example extends Component {
 
 ## Demo
 
-<a href="shashank.ml/demo" target="_blank">shashank.ml/demo</a>
+<a href="https://shashank.ml/demo" target="_blank">shashank.ml/demo</a>
 
 ## License
 
