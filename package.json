@@ -1,7 +1,7 @@
 {
   "name": "react-transition-noscroll",
-  "version": "1.0.0",
-  "description": "TODO",
+  "version": "0.0.1",
+  "description": "Hide scroll animation during sub page transition",
   "author": "shivam",
   "license": "MIT",
   "repository": "ricku44/react-transition-noscroll",
@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^17.0.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
